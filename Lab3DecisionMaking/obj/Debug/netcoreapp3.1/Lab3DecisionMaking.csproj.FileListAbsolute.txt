@@ -1,0 +1,11 @@
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.exe
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.deps.json
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.runtimeconfig.json
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.runtimeconfig.dev.json
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.dll
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\netcoreapp3.1\Lab3DecisionMaking.pdb
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.csprojAssemblyReference.cache
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.AssemblyInfo.cs
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.dll
+C:\Users\cdzie\source\repos\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\netcoreapp3.1\Lab3DecisionMaking.pdb
